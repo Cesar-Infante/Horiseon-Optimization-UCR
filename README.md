@@ -3,7 +3,9 @@
 During this code refactor challenge, the client Horiseon, a marketing agency; Is looking to improve the codebase so that it follows accessibility standards and is also optimized for search engines. By implementing the scout rule as we go along, we want to leave the code cleaner than when we started by ensuring we follow the semantic structure of HTML elements and consolidate CSS selectors and properties.
 
 
+Deployed URL: [Horiseon]
 
+Github Repo URL: [Horiseon-Optimization-UCR]
 
 <p align="center">
   <img 
@@ -13,6 +15,9 @@ During this code refactor challenge, the client Horiseon, a marketing agency; Is
   >
 </p>
 
+[Horiseon]: https://cesar-infante.github.io/Horiseon-Optimization-UCR/
+
+[Horiseon-Optimization-UCR]: https://github.com/Cesar-Infante/Horiseon-Optimization-UCR
 
 
 
